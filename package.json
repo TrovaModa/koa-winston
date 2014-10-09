@@ -1,0 +1,30 @@
+{
+  "name"        : "koa-winston",
+  "version"     : "0.0.1",
+  "description" : "A winston wrapper for koa.js",
+  "main"        : "index.js",
+
+  "repository"  : {
+    "type": "git",
+    "url" : "https://github.com/TrovaModa/koa-winston.git"
+  },
+
+  "dependencies": {
+    "winston": "0.8.1"
+  },
+
+  "keywords"    : [
+    "koa",
+    "winston",
+    "middleware",
+    "log",
+    "logger"
+  ],
+
+  "author"      : "yawnt <me@yawnt.com>",
+  "license"     : "MIT",
+  "bugs"        : {
+    "url": "https://github.com/TrovaModa/koa-winston/issues"
+  },
+  "homepage"    : "https://github.com/TrovaModa/koa-winston"
+}
